@@ -76,3 +76,11 @@ ID  | Title                     | Status      | Priority
 - [x] Phase 1: Java, MySQL and JDBC console app
 - [ ] Phase 2: Spring Boot REST API and web UI
 - [ ] Phase 3: Automated tests (JUnit, Postman, Selenium) and CI with GitHub Actions
+
+## Screenshots
+
+### Console app
+![Console menu](screenshots/menu.png)
+
+### Database tables
+![Database tables](screenshots/tables.png)
